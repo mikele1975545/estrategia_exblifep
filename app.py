@@ -64,7 +64,7 @@ elif modo == "Comparativa entre antibióticos":
 
     comparativas = {
         ("Cefepime/enmetazobactam", "Ceftazidima/avibactam"): (
-            "**Ventajas**: Mejor actividad frente a OXA-48 y BLEE.
+            "**Ventajas**: Mejor actividad frente a OXA-48 y BLEE."
 
 **Desventajas**: Menos datos postcomercialización."),
         ("Cefepime/enmetazobactam", "Ceftolozano/tazobactam"): (
